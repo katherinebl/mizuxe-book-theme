@@ -30,3 +30,15 @@ body {
     height: 100%;
   }
 }
+
+// MEDIAQUERIES
+
+@media all and (max-width: 768px) {
+  #showcase {
+    min-height: 500px;
+  
+    h1 {
+      font-size: 4rem;
+    }
+  }
+}
