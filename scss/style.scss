@@ -37,6 +37,19 @@ body {
   border-bottom: 1px #ddd solid;
 }
 
+#authors {
+  img {
+    margin-top: -50px;
+  }
+  .card:hover {
+    background: $primary;
+    color: #fff;
+    .fab {
+      color:#fff;
+    }
+  }
+}
+
 // MEDIAQUERIES
 
 @media all and (max-width: 768px) {
