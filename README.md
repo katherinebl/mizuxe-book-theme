@@ -1,2 +1,2 @@
 # mizuxe-book-theme
-Project 2 - Bootstrap and SASS
+Project with Bootstrap, SASS, and Koala as a compiler.
