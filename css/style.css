@@ -31,8 +31,18 @@ body {
 #authors .card:hover {
   background: #3292a6;
   color: #fff; }
-  #authors .card:hover .fab {
-    color: #fff; }
+#authors .card:hover .fab {
+  color: #fff; }
+
+#main-footer .github-link {
+  color: #fff;
+  display: block;
+  text-decoration: none;
+}
+
+#main-footer .github-link:hover {
+  color: black; 
+}
 
 @media all and (max-width: 768px) {
   #showcase {
