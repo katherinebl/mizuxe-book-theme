@@ -38,6 +38,7 @@ body {
   color: #fff;
   display: block;
   text-decoration: none;
+  font-size: 1rem;
 }
 
 #main-footer .github-link:hover {
